@@ -1,0 +1,16 @@
+Server IP: 166.78.129.244
+
+1. Answer: 571
+   Method: Using command "cd /usr/bin/" followed by "ls | wc -l"
+
+2. Answer: apache2
+   Method: "top" command followed by Shift + m
+
+3. Answer: UTC Timezone
+   Method: "date" command
+
+4. Answer: 51
+   Method: Using command "cat /etc/group ls | wc -l"
+
+5. Answer: 
+   Method: 
