@@ -1,6 +1,6 @@
 Server IP: 166.78.129.244
 
-1. Answer: 571
+1. Answer: 581
    Method: Using command "cd /usr/bin/" followed by "ls | wc -l"
 
 2. Answer: apache2
@@ -9,8 +9,15 @@ Server IP: 166.78.129.244
 3. Answer: UTC Timezone
    Method: "date" command
 
-4. Answer: 51
+4. Answer: 52
    Method: Using command "cat /etc/group ls | wc -l"
 
-5. Answer: 
-   Method: 
+5. Answer: 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
+	   This is the Fibonacci Sequence.
+   Method: Commands:
+		"apt-get install php5"
+		"apt-get install tar"
+		"apt-get install wget"
+		"wget cl.ly/2F0Q1r2y3K0l/362.tar"
+		"tar -xf 362.tar"
+		"php 362.php"
