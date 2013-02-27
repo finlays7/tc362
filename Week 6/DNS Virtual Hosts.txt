@@ -1,0 +1,5 @@
+166.78.129.244
+
+alazura.com
+sub1.alazura.com
+(sub2.alazura.com)
